@@ -501,7 +501,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "andar2.zip.kicad_pro",
+    "filename": "andar2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -663,8 +663,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "andar2.zip.kicad_sch",
-        "name": "andar2.zip",
+        "filename": "andar2.kicad_sch",
+        "name": "andar2",
         "uuid": "af155589-cc04-49ab-9253-58836d5c1ede"
       }
     ],
