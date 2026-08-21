@@ -501,7 +501,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "cansat_andar1_bateria_gnd.kicad_pro",
+    "filename": "andar1_GND.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -660,8 +660,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "cansat_andar1_bateria_gnd.kicad_sch",
-        "name": "cansat_andar1_bateria_gnd",
+        "filename": "andar1_GND.kicad_sch",
+        "name": "andar1_GND",
         "uuid": "4de066cd-5837-4118-8ac5-1d141af7864c"
       }
     ],
