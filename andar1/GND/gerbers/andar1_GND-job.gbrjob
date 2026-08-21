@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.4"
+      "Version": "10.0.5"
     },
-    "CreationDate": "2026-07-29T17:15:24-03:00"
+    "CreationDate": "2026-08-21T19:07:18-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -37,36 +37,6 @@
       "Path": "cansat_andar1_bateria_gnd-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "cansat_andar1_bateria_gnd-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "cansat_andar1_bateria_gnd-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "cansat_andar1_bateria_gnd-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "cansat_andar1_bateria_gnd-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "cansat_andar1_bateria_gnd-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "cansat_andar1_bateria_gnd-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
     },
     {
       "Path": "cansat_andar1_bateria_gnd-B_Mask.gbr",
