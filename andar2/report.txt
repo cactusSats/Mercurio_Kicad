@@ -1,0 +1,14 @@
+Informação: Processando o símbolo '111111:ESP32-DEVKITV1:ESP32-DEVKITV1'.
+Informação: Processando o símbolo '121111:CRD:MICROSD_SMALL_READER_FOOTPRINT'.
+Informação: Processando o símbolo 'barramento1:Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical'.
+Informação: Processando o símbolo 'H1:MountingHole:MountingHole_3.2mm_M3'.
+Informação: Processando o símbolo 'H2:MountingHole:MountingHole_3.2mm_M3'.
+Informação: Processando o símbolo 'H3:MountingHole:MountingHole_3.2mm_M3'.
+Informação: Processando o símbolo 'H4:MountingHole:MountingHole_3.2mm_M3'.
+Reconecta 111111 pino 10 de I2S_BCLK para I2S_WS.
+Reconecta 111111 pino 11 de I2S_WS para I2S_BCLK.
+Reconecta barramento1 pino 3 de I2S_BCLK para I2S_WS.
+Reconecta barramento1 pino 2 de I2S_WS para I2S_BCLK.
+
+
+Informação: Total de avisos: 0, erros: 0.

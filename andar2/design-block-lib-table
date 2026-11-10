@@ -1,0 +1,8 @@
+(design_block_lib_table
+	(version 7)
+	(lib (name "ESP32-DEVKITV1.pretty") (type "KiCad") (uri "${KIPRJMOD}/ESP32-DEVKITV1.pretty") (options "") (descr ""))
+	(lib (name "CRD.pretty") (type "KiCad") (uri "${KIPRJMOD}/CRD.pretty") (options "") (descr ""))
+	(lib (name "esp32.pretty") (type "KiCad") (uri "${KIPRJMOD}/esp32.pretty") (options "") (descr ""))
+	(lib (name "inmp441.pretty") (type "KiCad") (uri "${KIPRJMOD}/inmp441.pretty") (options "") (descr ""))
+	(lib (name "misc_footprints.pretty") (type "KiCad") (uri "${KIPRJMOD}/misc_footprints.pretty") (options "") (descr ""))
+)

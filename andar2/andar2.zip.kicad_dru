@@ -1,0 +1,36 @@
+(version 1)
+
+(rule "Clearance_Track_Track"
+  (constraint clearance (min 30mil))
+  (condition "A.Type == 'track' && B.Type == 'track'"))
+
+(rule "Clearance_Track_Pad"
+  (constraint clearance (min 20mil))
+  (condition "A.Type == 'track' && B.Type == 'pad'"))
+
+(rule "Clearance_Track_Via"
+  (constraint clearance (min 20mil))
+  (condition "A.Type == 'track' && B.Type == 'via'"))
+
+(rule "Clearance_Pad_Pad"
+  (constraint clearance (min 6mil))
+  (condition "A.Type == 'pad' && B.Type == 'pad'"))
+
+(rule "Clearance_Pad_Via"
+  (constraint clearance (min 6mil))
+  (condition "A.Type == 'pad' && B.Type == 'via'"))
+
+(rule "Clearance_Via_Via"
+  (constraint clearance (min 6mil))
+  (condition "A.Type == 'via' && B.Type == 'via'"))
+
+(rule "Anel e Furo para Vias"
+  (condition "A.Type == 'Via'")
+  (constraint annular_width (min 22mil))
+  (constraint via_diameter (min 2.1mm)) 
+  (constraint hole_size (min 1.0mm)))
+
+#(rule "Anel e Furo para Pads THT"
+#  (condition "A.Type == 'Pad' && A.Pad_Type == 'Through-hole'")
+#  (constraint annular_width (min 22mil))
+#  (constraint hole_size (min 1.0mm)))
