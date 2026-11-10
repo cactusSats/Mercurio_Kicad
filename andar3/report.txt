@@ -1,0 +1,15 @@
+Informação: Processando o símbolo '1311:CRD:SHT30_FOOTPRINT'.
+Informação: Processando o símbolo '1411:CRD:BMP280_FOOTPRINT'.
+Informação: Processando o símbolo '1511:CRD:MPU6050_FOOTPRINT'.
+Informação: Processando o símbolo 'barramento1:Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical'.
+Informação: Processando o símbolo 'H1:MountingHole:MountingHole_3.2mm_M3'.
+Informação: Processando o símbolo 'H2:MountingHole:MountingHole_3.2mm_M3'.
+Informação: Processando o símbolo 'H3:MountingHole:MountingHole_3.2mm_M3'.
+Informação: Processando o símbolo 'H4:MountingHole:MountingHole_3.2mm_M3'.
+Informação: Processando o símbolo 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Informação: Processando o símbolo 'U6:Package_TO_SOT_THT:TO-92_Inline'.
+Reconecta barramento1 pino 3 de I2S_BCLK para I2S_WS.
+Reconecta barramento1 pino 2 de I2S_WS para I2S_BCLK.
+
+
+Informação: Total de avisos: 0, erros: 0.
